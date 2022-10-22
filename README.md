@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srithailaveni
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning artificial intelligence and data science 
-- 💞️ I’m looking to collaborate on project related to AI&DS
+- 💞️ I’m looking to collaborate on project related to AI&DS and Data Science 
 - 📫 How to reach me ...
 
 <!---
